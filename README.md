@@ -1,6 +1,7 @@
 # Team_Venture_Land_Rover_Power_System_for_Venus
 
 Hello and Welcome to Team Venture official GitHub Resources.
+![Team Venture](/assets/images/team_photo.png)
 
 ## Project Scope:
 
