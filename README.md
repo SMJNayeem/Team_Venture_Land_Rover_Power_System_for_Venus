@@ -1,13 +1,14 @@
 # Team_Venture_Land_Rover_Power_System_for_Venus
 
 Hello and Welcome to Team Venture official GitHub Resources.
+
 ![Team Venture](/assets/images/team_photo.png)
 
 ## Project Scope:
 
 Desiging Energy Stroge System For Venus Surface Mission
 
-## Story Telling:
+## Start with a Story:
 
 Suppose you wanna operate a mission somewhere where the temperature and pressure are too high to make the microcomputer functionable, it is impossible to produce sufficient heat to power up your vehicle. What should you do then? That is the question we, the team venture, are trying to solve. Designing a powerful energy storage system for your next mission.
 
@@ -35,6 +36,7 @@ RTG was used during the appolo program to moon, in voyager 1 and 2, in Cassini t
 ### Battery
 
 ![Sodium Sulpher Battery](/assets/images/nas_battery.png)
+
 Sodium sulfur batteries can operate at 450 degree celsius. our batteries are sized to provide 2200 Whr of energy storage and a specific energy of 220 Whr/kg (340 kWhr/m3) with an average power draw of 64.5 W.The purpose of this cooling system is to allow the electronics to be used in their functional temperature.
 
 The system allows a high-temperature silicon-on-insulator (SOI) microcontroller to be used in 3000C with ambient heat load of 110 W. The mass of this system is 1.6 kg with an astounding mechanical efficiency of 85%.
