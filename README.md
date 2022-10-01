@@ -19,7 +19,7 @@ Suppose you wanna operate a mission somewhere where the temperature and pressure
 - <b>Operation time:</b> At least 60 days
 - <b>Operation environment 1:</b> Approximately ~460 °C
 - <b>Operation environment 2:</b> Air pressure nearly 93 bar
-- <b>Battery Requiremnt:</b> 28 Volt power system
+- <b>Battery Requiremnt:</b> Required 28 Volt power system
 
 ## Project Description Overview:
 
@@ -35,7 +35,9 @@ Designing a energy storage system for Venus mission is difficult. Because, the e
 
 As Venus is very hot planet and it’s temperature is ~460 °C. Also the MMRTG will generate approximately 1020 °C, so the temperature will be so high that need to be reduce. Then we need a cooler. And, that’s why we proposed to use Stiring Cooler system which pump the heat out of the rover. The Stirling cooler transfers the waste heat to convective radiators, which efficiently reject heat to the Venus atmosphere at a temperature of 500 °C, 40 °C above the surface ambient temperature.
 
-### MMRTG
+To opearate a Rover on Venus surface, we have produce enough energy. Also we have to ensure that the production system will work on Venus harsh environment. That's why we choose MMRTG Plutonium-238 isotop. As it's a radio isotop, it generate huge heat(~1200°C), we have to cool down the inside temparature of Venus rover. And for this cooling requirement, we choose Stiring Cooling systen, which can reduce temparature to 200°C. We have to conside one fact here. MMRTG generate electricity constantly. So, we need to store the electricity. For this part, we consider to use NaS battery to store the electricity. In depth discussion about these three is below:
+
+### 1. MMRTG (Multi-Mission Radioisotope Thermoelectric Generator)
 
 We have designed a system that can power up the land rover with a radio-isotope thermo-electric generator (RTG), a sodium sulfur battery to provide any shortage of power, and a cooling system in the rover. To drive a rover we need a power source that can generate or provide at least 215 watts per hour.
 
@@ -47,7 +49,7 @@ The RTG will provide power to the rover constantly. We proposed to use Plutonium
 
 RTG was used during the appolo program to moon, in voyager 1 and 2, in Cassini to saturn, in Curiosity, in Perseverance to mars and not a single thermocouple has failed. The plutonium 238 is an alpha emitter. Alpha particles can be very easily shielded. Even a sheet of paper is enough to protect us against alpha radiation. Its only a hazard to the human body if its inhaled or is its ingested. To prevent that we use the fuel in an oxide form as plutonium 238 dioxide. Surrounding the plutonium fuel is a material called Iridium. Iridium at these operating temperatures is very strong and very ductile. Iridium also has a very high melting point and it has a good material compatibility with the other materials found in the GPHS module. Over the last 40 years an aggressive testing campaign is engaged to prove the safety of these devices. every time they behave exactly as they were designed.
 
-### Battery
+### 2. Battery( NaS battery )
 
 Sodium sulfur batteries can operate at 450 degree celsius. our batteries are sized to provide 2200 Whr of energy storage and a specific energy of 220 Whr/kg (340 kWhr/m3) with an average power draw of 64.5 W.The purpose of this cooling system is to allow the electronics to be used in their functional temperature.
 
@@ -57,7 +59,7 @@ Sodium sulfur batteries can operate at 450 degree celsius. our batteries are siz
 
 The system allows a high-temperature silicon-on-insulator (SOI) microcontroller to be used in 3000C with ambient heat load of 110 W. The mass of this system is 1.6 kg with an astounding mechanical efficiency of 85%.
 
-### Cooling System
+### 3. Cooling System (Stiring Cooling System)
 
 ![Stiring Cooling System](/assets/images/stiring_cooling2.png)
 
