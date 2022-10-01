@@ -51,7 +51,9 @@ The cooling requirement to keep the heat pipe cold-side temperature at 475 K is 
 
 ## Hackathon Journey:
 
-This is for the first time all of the member of our team perticipate on NASA Space App Challenge 2022 Bangladesh Chapter. Although we knew about space app challenge, but this is for the first time we perticipate and work on. We were selected as Top 50 Team from Bangladesh and got the opportunity to perticipate on 36 hours long Hackathon. We don't know our precise outcome. It was a wonderfull journey. We learn a lot from everywhere. Every second during the 36 hours Hackathon time, we learn lot from outside(Google, Internet), also learn so many concept, knowledge, problem solving technique and much more from our respected mentor who guided us from the very begening of Space App Challenge 2022.
+This is for the first time all the member of our team perticipated in NASA Space App Challenge Bangladesh Chapter. After getting the opportunity to perticipate on this prestigious hackathon, we were very thrilled as we get to work with the challenges from NASA.
+We believed that the challenge "Exploring Venus Together" was such a unique concept. As the previous missions regarding Venus were very much successful but not in the surface of it for the extreme environment condition. The challenges we faced designing a energy storage system for a land rover was pretty rough and forced us to our limits. But our team member supported each other and we covered our backs each time we faced any difficulty. We wish to perform our best to be the global champion in this Space App Challenge 2022.
+Overall our journey upto this point was full of excitement and adventerous. We learned a lot about so many concept, knowledge, problem solving technique during this time and much more from our respected mentor who guided us from the very begening of Space App Challenge 2022. We thank BASIS for arranging this glourious event and their astounding hospitality to bringing out people like us and give us the opportunity to represent ourselves in this global platform.
 
 ## References:
 
