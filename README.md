@@ -2,7 +2,7 @@
 
 Hello and Welcome to Team Venture official GitHub Resources.
 
-![Team Venture](/assets/images/team_photo.png)
+<p align="center">![Team Venture](/assets/images/team_photo.png)</p>
 
 ## Project Scope:
 
@@ -21,7 +21,7 @@ Suppose you wanna operate a mission somewhere where the temperature and pressure
 
 ## Project Description Overview:
 
-![System Workflow](/assets/images/Workflow.png)
+<p align="center">![System Workflow](/assets/images/Workflow.png)</p>
 
 We conceptualize an energy storage system for the next NASA mission to venus. To explore Venus for at least 60 days, we proposed an energy producer, storage and cooling system to power up the rover. We designed a system with no recharge time containing an mmRTG power system generating electricity. A sodium sulfur battery for storing electricity and supplying it to rover. A stirling cooling system to maintain the operating temperature of semiconductors.
 
@@ -33,21 +33,23 @@ As Venus is very hot planet and it’s temperature is ~460 °C. Also the MMRTG w
 
 ### MMRTG
 
-![MMRTG](/assets/images/mmrtg1.png)
+We have designed a system that can power up the land rover with a radio-isotope thermo-electric generator (RTG), a sodium sulfur battery to provide any shortage of power, and a cooling system in the rover. To drive a rover we need a power source that can generate or provide at least 215 watts per hour.
+
+<p align="center">![MMRTG](/assets/images/mmrtg1.png)</p>
 
 <p align="center">Video Source: NASA YouTube Channel(https://www.youtube.com/watch?v=dqBKDpfOeHc)</p>
 
-We have designed a system that can power up the land rover with a radio-isotope thermo-electric generator (RTG), a sodium sulfur battery to provide any shortage of power, and a cooling system in the rover. To drive a rover we need a power source that can generate or provide at least 215 watts per hour. The RTG will provide power to the rover constantly. We proposed to use Plutonium-238 as the radio-isotope material which can provide a 0.54 watts per gram energy, at 10% efficiency it will generate 0.054 watts per gram. We have calculated 4 kg of plutonium for our system to provide 215 watts per hour energy and has an operational lifetime of at least 14 years.
+The RTG will provide power to the rover constantly. We proposed to use Plutonium-238 as the radio-isotope material which can provide a 0.54 watts per gram energy, at 10% efficiency it will generate 0.054 watts per gram. We have calculated 4 kg of plutonium for our system to provide 215 watts per hour energy and has an operational lifetime of at least 14 years.
 
 RTG was used during the appolo program to moon, in voyager 1 and 2, in Cassini to saturn, in Curiosity, in Perseverance to mars and not a single thermocouple has failed. The plutonium 238 is an alpha emitter. Alpha particles can be very easily shielded. Even a sheet of paper is enough to protect us against alpha radiation. Its only a hazard to the human body if its inhaled or is its ingested. To prevent that we use the fuel in an oxide form as plutonium 238 dioxide. Surrounding the plutonium fuel is a material called Iridium. Iridium at these operating temperatures is very strong and very ductile. Iridium also has a very high melting point and it has a good material compatibility with the other materials found in the GPHS module. Over the last 40 years an aggressive testing campaign is engaged to prove the safety of these devices. every time they behave exactly as they were designed.
 
 ### Battery
 
-![Sodium Sulpher Battery](/assets/images/nas_battery.png)
+Sodium sulfur batteries can operate at 450 degree celsius. our batteries are sized to provide 2200 Whr of energy storage and a specific energy of 220 Whr/kg (340 kWhr/m3) with an average power draw of 64.5 W.The purpose of this cooling system is to allow the electronics to be used in their functional temperature.
+
+<p align="center">![Sodium Sulpher Battery](/assets/images/nas_battery.png)</p>
 
 <p align="center">Fig: Sodium Sulpher Battery</p>
-
-Sodium sulfur batteries can operate at 450 degree celsius. our batteries are sized to provide 2200 Whr of energy storage and a specific energy of 220 Whr/kg (340 kWhr/m3) with an average power draw of 64.5 W.The purpose of this cooling system is to allow the electronics to be used in their functional temperature.
 
 The system allows a high-temperature silicon-on-insulator (SOI) microcontroller to be used in 3000C with ambient heat load of 110 W. The mass of this system is 1.6 kg with an astounding mechanical efficiency of 85%.
 
