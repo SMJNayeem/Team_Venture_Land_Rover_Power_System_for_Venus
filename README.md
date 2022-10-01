@@ -21,7 +21,7 @@ Suppose you wanna operate a mission somewhere where the temperature and pressure
 
 ## Project Description Overview:
 
-<center> ![System Workflow](/assets/images/Workflow.png) </center>
+![System Workflow](/assets/images/Workflow.png)
 
 We conceptualize an energy storage system for the next NASA mission to venus. To explore Venus for at least 60 days, we proposed an energy producer, storage and cooling system to power up the rover. We designed a system with no recharge time containing an mmRTG power system generating electricity. A sodium sulfur battery for storing electricity and supplying it to rover. A stirling cooling system to maintain the operating temperature of semiconductors.
 
@@ -35,7 +35,7 @@ As Venus is very hot planet and it’s temperature is ~460 °C. Also the MMRTG w
 
 We have designed a system that can power up the land rover with a radio-isotope thermo-electric generator (RTG), a sodium sulfur battery to provide any shortage of power, and a cooling system in the rover. To drive a rover we need a power source that can generate or provide at least 215 watts per hour.
 
-<center>![MMRTG](/assets/images/mmrtg1.png)</center>
+![MMRTG](/assets/images/mmrtg1.png)
 
 <p align="center">Video Source: NASA YouTube Channel(https://www.youtube.com/watch?v=dqBKDpfOeHc)</p>
 
@@ -47,7 +47,7 @@ RTG was used during the appolo program to moon, in voyager 1 and 2, in Cassini t
 
 Sodium sulfur batteries can operate at 450 degree celsius. our batteries are sized to provide 2200 Whr of energy storage and a specific energy of 220 Whr/kg (340 kWhr/m3) with an average power draw of 64.5 W.The purpose of this cooling system is to allow the electronics to be used in their functional temperature.
 
-<center>![Sodium Sulpher Battery](/assets/images/nas_battery.png)</center>
+![Sodium Sulpher Battery](/assets/images/nas_battery.png)
 
 <p align="center">Fig: Sodium Sulpher Battery</p>
 
@@ -55,7 +55,7 @@ The system allows a high-temperature silicon-on-insulator (SOI) microcontroller 
 
 ### Cooling System
 
-<center>![Stiring Cooling System](/assets/images/stiring_cooling2.png)</center>
+![Stiring Cooling System](/assets/images/stiring_cooling2.png)
 
 <p align="center">Fig: Stiring Cooling System</p>
 
