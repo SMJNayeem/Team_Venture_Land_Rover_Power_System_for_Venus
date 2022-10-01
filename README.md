@@ -71,6 +71,17 @@ The cooling requirement to keep the heat pipe cold-side temperature at 475 K is 
 
 We made sure to make the best use of NASA Website data for designing our power storage system for the Venus land rover. In some places, we used the latest research data which are published on NASA's Official website to design our system. Also, the information regarding Venus environmental situation of Venus, rover technology for outer space missions,s and the issues and challenges regarding the construction of high-temperature materials and electronics all are taken directly from NASA and different kinds of research facilities of NASA.
 
+Resources Used from NASA:
+
+- https://solarsystem.nasa.gov/resources/549/energy-storage-technologies-for-future-planetary-science-missions/
+- https://www.nasa.gov/press-release/nasa-selects-2-missions-to-study-lost-habitable-world-of-venus/
+- https://solarsystem.nasa.gov/news/1519/venus-resources/?page=0&per_page=40&order=created_at+desc&search=&tags=Venus&category=324
+- https://solarsystem.nasa.gov/planets/venus/overview/
+- https://www.nasa.gov/directorates/spacetech/niac/2012_Phase_I_venus_landsailing_rover/
+- https://ntrs.nasa.gov/api/citations/20050192311/downloads/20050192311.pdf
+- https://science.nasa.gov/science-red/s3fs-public/atoms/files/Venus%20Flagship%20Mission.pdf
+- https://www.jpl.nasa.gov/news/press_kits/mars_2020/launch/mission/spacecraft/power/
+
 ## Hackathon Journey:
 
 This is for the first time all the members of our team participated in the NASA Space App Challenge Bangladesh Chapter. After getting the opportunity to participate in this prestigious hackathon, we were very thrilled as we get to work with the challenges from NASA.
@@ -81,9 +92,6 @@ Overall our journey up to this point was full of excitement and adventure. We le
 
 ## References:
 
-- https://solarsystem.nasa.gov/resources/549/energy-storage-technologies-for-future-planetary-science-missions/
-- https://solarsystem.nasa.gov/news/1519/venus-resources/?page=0&per_page=40&order=created_at+desc&search=&tags=Venus&category=324
-- https://solarsystem.nasa.gov/planets/venus/overview/
 - https://arc.aiaa.org/doi/pdf/10.2514/1.41886
-- https://science.nasa.gov/science-red/s3fs-public/atoms/files/Venus%20Flagship%20Mission.pdf
-- https://www.jpl.nasa.gov/news/press_kits/mars_2020/launch/mission/spacecraft/power/
+- https://www.sciencedirect.com/topics/engineering/sodium-sulfur-battery?fbclid=IwAR2T8mL0NSxgYZ-5jLYReVMnA5UiTrnN_YFiXyOeJQhLN7jxV5H5TmfbXsg
+- https://www.youtube.com/watch?v=dqBKDpfOeHc&ab_channel=NASASolarSystem
