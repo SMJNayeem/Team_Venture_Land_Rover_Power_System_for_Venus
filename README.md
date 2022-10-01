@@ -6,7 +6,7 @@ Hello and Welcome to Team Venture official GitHub Resources.
 
 ## Project Scope:
 
-Desiging Energy Stroge System For Venus Surface Mission
+Desiging Energy Storage System For Venus Surface Mission
 
 ## Start with a Story:
 
