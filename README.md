@@ -21,7 +21,7 @@ Suppose you wanna operate a mission somewhere where the temperature and pressure
 
 ## Project Description Overview:
 
-<center>![System Workflow](/assets/images/Workflow.png)</center>
+<center> ![System Workflow](/assets/images/Workflow.png) </center>
 
 We conceptualize an energy storage system for the next NASA mission to venus. To explore Venus for at least 60 days, we proposed an energy producer, storage and cooling system to power up the rover. We designed a system with no recharge time containing an mmRTG power system generating electricity. A sodium sulfur battery for storing electricity and supplying it to rover. A stirling cooling system to maintain the operating temperature of semiconductors.
 
