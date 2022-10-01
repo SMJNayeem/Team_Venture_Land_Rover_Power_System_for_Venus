@@ -2,7 +2,9 @@
 
 Hello and Welcome to Team Venture official GitHub Resources.
 
-<p align="center">![Team Venture](/assets/images/team_photo.png)</p>
+![Team Venture](/assets/images/team_photo.png)
+
+<p align="center">Photo: Team Venture | NASA Space App Challenge 2022</p>
 
 ## Project Scope:
 
@@ -22,6 +24,8 @@ Suppose you wanna operate a mission somewhere where the temperature and pressure
 ## Project Description Overview:
 
 ![System Workflow](/assets/images/Workflow.png)
+
+<p align="center">Fig: System Workflow</p>
 
 We conceptualize an energy storage system for the next NASA mission to venus. To explore Venus for at least 60 days, we proposed an energy producer, storage and cooling system to power up the rover. We designed a system with no recharge time containing an mmRTG power system generating electricity. A sodium sulfur battery for storing electricity and supplying it to rover. A stirling cooling system to maintain the operating temperature of semiconductors.
 
